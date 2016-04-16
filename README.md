@@ -13,6 +13,6 @@ The code assumes that the data is located in the working directory and is unzipp
 
 `CodeBook.md` describes the variables used by the script, as well as the cleaning of the data done.
 
-`run_analysis.R` is the actual script used.
+`run_analysis.R` is the script itself.
 
 The output of the script is named `tidy_data.txt` and is also found in the Getting_and_Cleaning_Project repo.
