@@ -13,4 +13,4 @@ The code assumes that the data is located in the working directory and is unzipp
 
 `run_analysis.R` is the actual script used.
 
-The output of the script is named `averages_data.txt` and is also found in the Getting_and_Cleaning_Project repo.
+The output of the script is named `tidy_data.txt` and is also found in the Getting_and_Cleaning_Project repo.
