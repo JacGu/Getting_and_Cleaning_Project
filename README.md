@@ -5,6 +5,8 @@ This repo contains the script and documentation for the course project "Getting 
 
 The dataset being used is: [Human Activity Recognition Using Smartphones] (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
+The R package "plyr" must be installed for the script to run properly.
+
 ## Files
 
 The code assumes that the data is located in the working directory and is unzipped.
