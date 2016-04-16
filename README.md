@@ -3,7 +3,7 @@ Getting and Cleaning Data - Course Project
 
 This repo contains the script and documentation for the course project "Getting and Cleaning data"
 
-The dataset being used is: [Human Activity Recognition Using Smartphones] (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+The script was used on the following data: [Human Activity Recognition Using Smartphones] (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
 The R package "plyr" must be installed for the script to run properly.
 
