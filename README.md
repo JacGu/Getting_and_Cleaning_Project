@@ -1,13 +1,16 @@
-# Getting and Cleaning Data - Course Project
+Getting and Cleaning Data - Course Project
+==========================================
 
-I've created an R script called `run_analysis.R` that does the following:
+This repository hosts the R code and documentation files for the Data Science's track course "Getting and Cleaning data", available in coursera.
 
-1. Downloads the dataset for the project if it does not already exist in the working directory
-2. Load the activity and feature info
-3. Loads both the training and test datasets, keeping only those columns which reflect a mean or standard deviation
-4. Loads the activity and subject data for each dataset, and merges those columns with the dataset
-5. Merges the two datasets
-6. Converts the `activity` and `subject` columns into factors
-7. Creates a tidy dataset that consists of the average (mean) value of each variable for each subject and activity pair.
+The dataset being used is: [Human Activity Recognition Using Smartphones] (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
-The end result is shown in the file `tidy.txt`.
+## Files
+
+The code assumes that the data is located in the working directory and is unzipped.
+
+`CodeBook.md` describes the variables used by the script, as well as the cleaning of the data done.
+
+`run_analysis.R` is the actual script used.
+
+The output of the script is named `averages_data.txt` and is also found in the Getting_and_Cleaning_Project repo.
